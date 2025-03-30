@@ -78,10 +78,24 @@ header h1 {
 #photo2 { transform: rotate(2deg) translateX(-10px); }
 #photo3 { transform: rotate(-5deg) translateY(-10px); }
 #photo4 { transform: rotate(3deg) translateX(5px); }
-#photo5 { transform: rotate(-4deg) translateY(5px); }
-#photo6 { transform: rotate(2deg) translateX(-5px); }
-#photo7 { transform: rotate(-2deg) translateY(-5px); }
-#photo8 { transform: rotate(3deg) translateX(10px); }
+
+#photo5 { transform: rotate(-3deg) translateY(10px); }
+#photo6 { transform: rotate(2deg) translateX(-10px); }
+#photo7 { transform: rotate(-5deg) translateY(-10px); }
+#photo8 { transform: rotate(3deg) translateX(5px); }
+/* desde aki */
+#photo9 { transform: rotate(-3deg) translateY(10px); }
+#photo10 { transform: rotate(2deg) translateX(-10px); }
+#photo11 { transform: rotate(-5deg) translateY(-10px); }
+#photo12 { transform: rotate(3deg) translateX(5px); }
+
+#photo13 { transform: rotate(-3deg) translateY(10px); }
+#photo14 { transform: rotate(2deg) translateX(-10px); }
+#photo15 { transform: rotate(-5deg) translateY(-10px); }
+#photo16 { transform: rotate(3deg) translateX(5px); }
+
+
+
 
 .music-button {
     font-size: 1.5rem;
